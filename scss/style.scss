@@ -104,6 +104,10 @@ body {
       align-items: center;
       justify-content: center;
     }
+    .btn:hover {
+      cursor: pointer;
+      background-color: $veryDarkBlue;
+    }
   }
 }
 

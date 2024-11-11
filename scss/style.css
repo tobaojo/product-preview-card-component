@@ -96,6 +96,10 @@ body {
   align-items: center;
   justify-content: center;
 }
+.container .card .btn:hover {
+  cursor: pointer;
+  background-color: hsl(212, 21%, 14%);
+}
 
 .attribution {
   font-size: 11px;
